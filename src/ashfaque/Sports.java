@@ -1,7 +1,6 @@
 package ashfaque;
 
 public class Sports {
-    // Parent of Cricket
     Sports()
     {
         System.out.println("Sports class called");
